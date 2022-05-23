@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;1,700;1,900&display=swap");
+
+body {
+  text-align: center;
+  font-family: "Source Sans Pro", sans-serif;
+}
+#dice{
+   
+  font-size: 220px;
+  color: rgb(17, 211, 49);
+}
+#dice:hover {
+  cursor: pointer;
+  color: rgb(219, 15, 15);
+}
